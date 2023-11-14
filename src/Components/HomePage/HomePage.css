@@ -1,0 +1,26 @@
+.para{
+    width: 300px;
+    height: 360px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    font-size: 20px;
+    color: cadetblue;
+}
+.btn{
+    margin-top: 10px;
+    font-size: 20px;
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    transition: 1s ease-in-out;
+}
+.btn:hover{
+    background-color: white;
+    color: blue;
+    transform: scale(1.1);
+    border: 2px solid blue;
+} 
